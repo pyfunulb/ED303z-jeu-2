@@ -1,0 +1,9 @@
+... j'ignore comment partager le programme.
+Mais grâce au fichier GIF, vous pouvez voir à quoi ça ressemble.
+
+En fait c'est une simple adaptation du programme du jeu. Il faut : 
+
+- définir des fonctions pour les appuis touche 0, 1, 2, 3, 4 qui modifient directement la valeur de la matrice à la position donnée ;
+- autoriser le personnage à aller partout sur la grille ;
+- désactiver les autres fonctions du jeu ;
+- à l'appui de la touche "Esc", la fenêtre doit se fermer et un nouveau fichier TXT est écrit à partir de la matrice !
